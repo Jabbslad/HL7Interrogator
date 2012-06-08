@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/HL7Interrogator/nbproject/private/
