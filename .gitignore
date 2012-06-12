@@ -5,3 +5,5 @@
 *.war
 *.ear
 /HL7Interrogator/nbproject/private/
+HL7Interrogator/build/
+HL7Interrogator/dist/
